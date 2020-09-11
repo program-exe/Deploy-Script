@@ -8,7 +8,7 @@
         Edits configuration of VM including: Name/description, numa information, networking information, adding tags and running OS Config script
 .NOTES
   Version:        2.0
-  Author:         <Joshua Dooling, Jason Nagin, Sean McConnell, Andrew Hosler, Matthew Johnson>
+  Author:         <>
   Creation Date:  <07/16/2019>
   Purpose/Change: Automate VM creation
   
